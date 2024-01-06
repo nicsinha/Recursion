@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+ 
+ // function to print subsequence - 2^n subsequence
 void printSeq(int a[],int i,int n, vector<int> ans)
 {
     if(i == n)

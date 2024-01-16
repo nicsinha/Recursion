@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+
 using namespace std;
 
 void findAllPremutation(int a[],vector<int> ans,vector<vector<int>> &result,int n,vector<int> freq)
